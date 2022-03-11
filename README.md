@@ -1,5 +1,8 @@
 # NewsAppAndroid
 
+## INSTALL IONIC
+npm install -g @ionic/cli
+
 ## INSTALL
 npm install
 
